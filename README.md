@@ -7,4 +7,4 @@ Skills: JS / HTML / CSS / JAVA / Python
 - 🌱 I’m currently learning django framework 
 - 🤔 I’m looking for help with How to manage team 
 
-##### [나에 대해 더 알고 싶다면](https://link.inpock.co.kr/yeonhj0507)
+##### [more Information about me](https://link.inpock.co.kr/yeonhj0507)
