@@ -3,7 +3,7 @@
 
 Skills: JS / HTML / CSS / JAVA / Python
 
-- 🔭 I’m currently learning on KyungHee Highshcool 
+- 🔭 I’m currently learning on KyungHee Highschool 
 - 🌱 I’m currently learning django framework 
 - 🤔 I’m looking for help with How to manage team 
 
