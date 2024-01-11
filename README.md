@@ -3,8 +3,8 @@
 
 Skills: JS / HTML / CSS / JAVA / Python
 
-- 🔭 I’m currently learning on KyungHee Highschool 
-- 🌱 I’m currently learning Django Rest Framework(DRF)
+- 🔭 I’m currently learning on Korea Univ
+- 🌱 I’m currently learning indestrial and management engineering
 - 🤔 I’m looking for help with How to manage team 
 
 ##### [more Information about me](https://link.inpock.co.kr/yeonhj0507)
