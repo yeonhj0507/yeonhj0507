@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is HyunJung Yeon
-#### I am KH Programmers' leader
 
 Skills: JS / HTML / CSS / JAVA / Python
 
