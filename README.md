@@ -3,7 +3,7 @@
 Skills: JS / HTML / CSS / JAVA / Python
 
 - 🔭 I’m currently learning on Korea Univ
-- 🌱 I’m currently learning industrial and management engineering
+- 🌱 I’m currently learning Operation Research
 - 🤔 I’m looking for help with How to manage team 
 
 ##### [more Information about me](https://link.inpock.co.kr/yeonhj0507)
