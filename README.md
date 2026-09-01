@@ -1,8 +1,4 @@
 <!-- Header Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0e7490&height=180&section=header&text=Yeon%20Hyunjung&fontSize=48&fontColor=e2e8f0&fontAlignY=40&desc=세상%20모든%20문제를%20해결합니다&descAlignY=62&descSize=16&descColor=94a3b8" width="100%"/>
-</div>
-
 <br/>
 
 <!-- Contact & Links -->
