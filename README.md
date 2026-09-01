@@ -60,8 +60,3 @@
 </div>
 
 ---
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%"/>
-</div>
